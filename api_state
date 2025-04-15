@@ -1,0 +1,15 @@
+## docapi
+https://docapi.serverless.yandexcloud.net/ru-central1/b1gq9cbrkaf3s005ij1g/etnq41e6a3lumjb90ar4
+
+## id service account
+aje4mfqev5dipjm1srs2
+
+## access key for S3 storage
+access_key:
+  id: aje3g59pf0kmg7enjdkk
+  service_account_id: aje4mfqev5dipjm1srs2
+  created_at: "2025-04-15T11:49:54.998757579Z"
+  description: terraform s3 backend access key
+  key_id: YCAJEQruqydGS1IB_Gtj9j8LJ
+secret: YCNpZ1kIGBoO5eCJX9BMNYCqDw4OIjBCT3MkLOgX
+
